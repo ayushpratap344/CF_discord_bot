@@ -51,7 +51,8 @@ client.on('message', (message) => {
 
     }
 })
-process.env.API_KEY = 'MTA1MDMxMjMwMzI3NjQ1ODAwNA.Gmnufe.s7Ir3G519WHtZRswjxqhwHckUeAdHLck4wSQyY';
+process.env.API_KEY = 'xyz';
+//xyz is the Client Key which you get from Discord.
 client.login(process.env.API_KEY)
 
 
