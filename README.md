@@ -1,7 +1,9 @@
 # CF_discord_bot
 <br>
 <p> Discord bot which can help user to get schedule for the upcoming and ongoing codeforces contests on their discord server.</p> 
-<p> It is used by members of our coding club on discord. <b>(Nearly 30+ students are using this bot)</b> and we are trying to make it better.</p>
+<p> It is used by members of our coding club DotSlash on discord. <b>(Nearly 50+ students are using this bot)</b> and we are trying to make it better.</p>
+<br>
+<img src="https://github.com/ayushpratap344/CF_discord_bot/blob/main/working_gif.gif"/>
 <br>
 <h3> Setup </h3>
 <ol>
